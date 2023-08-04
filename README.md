@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/mDG0kmx/Screenshot-2023-08-04-095300.png)
-
 # Dice Game
 
 Welcome to the Dice Game repository! This is a simple web-based dice game where players can roll the dice and try to match their chosen number to win points. The game is built using React, Vite, and styled-components.
@@ -13,6 +11,8 @@ Welcome to the Dice Game repository! This is a simple web-based dice game where 
 ## Demo
 
 [Live Demo](https://example.com) - [https://dicegame32.netlify.app/]
+
+![Banner](https://i.ibb.co/mDG0kmx/Screenshot-2023-08-04-095300.png)
 
 ## Features
 
