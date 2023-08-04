@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/6yG2bwD/Dice-Game.png)
+![Banner](https://i.ibb.co/FJ2Cwyb/Screenshot-2023-08-04-095124.png)
 
 # Dice Game
 
