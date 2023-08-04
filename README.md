@@ -23,12 +23,12 @@ Welcome to the Dice Game repository! This is a simple web-based dice game where 
 ## How to Play
 Start the game by clicking the "Play Now" button on the homepage.
 
-.Choose a number from 1 to 6 in the Number Selector component.
+-Choose a number from 1 to 6 in the Number Selector component.
 
-.Click on the dice to roll it.
+-Click on the dice to roll it.
 
-.If the rolled number matches your selected number, you earn points equal to the rolled number. Otherwise, you lose 2 points.
+-If the rolled number matches your selected number, you earn points equal to the rolled number. Otherwise, you lose 2 points.
 
-.You can reset your score by clicking the "Reset" button.
+-You can reset your score by clicking the "Reset" button.
 
-.You can also view the game rules by clicking the "Show Rules" button.
+-You can also view the game rules by clicking the "Show Rules" button.
